@@ -1,0 +1,11 @@
+ion-thumbnail {
+    --size: 140px;
+    --border-radius: 14px;
+    margin: 16px;
+
+}
+
+.banner {
+    width: 100%;
+    margin-top: 8px;
+}

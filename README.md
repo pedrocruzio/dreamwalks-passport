@@ -4,7 +4,7 @@ Web app for claiming DreamWalks Stamp NFTs
 
 ## Tech Stack
 
-Next.js, React.js, Thirdweb, Solana.
+Next.js, React.js, Ionic, Thirdweb, Solana.
 
 ## Getting Started
 
